@@ -1,18 +1,24 @@
-# Impressum
-b33 e.V.
-Vorstand:
-Jörg Zaun
-Franziska Seide
-Richard Springer
-Christiane Gunst
+---
+layout: page
+title: "Impressum"
+permalink: /about
+---
 
-Böhmische Straße 33
-01099 Dresden
-verein@b-33.de
+# Impressum
+b33 e.V.  
+Vorstand:  
+Jörg Zaun  
+Franziska Seide  
+Richard Springer  
+Christiane Gunst  
+  
+Böhmische Straße 33  
+01099 Dresden  
+verein@b-33.de  
 
 ### Abbildungen
-h.e.i.z.Haus
-b33
+h.e.i.z.Haus  
+b33  
 
 ### Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
@@ -20,18 +26,19 @@ Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf dies
 
 # Datenschutzerklärung
 
-Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
-
-b33 e.V.
-Vorstand:
-Margarete Füßer
-Franziska Seide
-Stephan Lo
-Richard Springer
-Böhmische Straße 33
-01099 Dresden
-verein@b-33.de
-Ihre Betroffenenrechte
+Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:  
+  
+b33 e.V.  
+Vorstand:  
+Jörg Zaun  
+Franziska Seide  
+Richard Springer  
+Christiane Gunst  
+  
+Böhmische Straße 33  
+01099 Dresden  
+verein@b-33.de  
+### Ihre Betroffenenrechte
 Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:
 
 * Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),
@@ -44,7 +51,7 @@ Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit 
 Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z. B. an die zuständige Aufsichtsbehörde des Bundeslands Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.
 Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
-Kommentarfunktion
+#### Kommentarfunktion
 Art und Zweck der Verarbeitung:
 Wenn Nutzer Kommentare auf unserer Website hinterlassen, werden neben diesen Angaben auch der Zeitpunkt ihrer Erstellung und der zuvor durch den Websitebesucher gewählte Nutzername gespeichert. Dies dient unserer Sicherheit, da wir für widerrechtliche Inhalte auf unserer Webseite belangt werden können, auch wenn diese durch Benutzer erstellt wurden.
 Rechtsgrundlage:
@@ -57,16 +64,16 @@ Die Daten werden gelöscht, sobald diese für den Zweck der Erhebung nicht mehr 
 Bereitstellung vorgeschrieben oder erforderlich:
 Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig. Ohne die Bereitstellung Ihrer personenbezogenen Daten können wir Ihnen keinen Zugang zu unserer Kommentarfunktion gewähren.
 
-Kontaktformular
+#### Kontaktformular
 Art und Zweck der Verarbeitung:
 Die von Ihnen eingegebenen Daten werden zum Zweck der individuellen Kommunikation mit Ihnen gespeichert. Hierfür ist die Angabe einer validen E-Mail-Adresse sowie Ihres Namens erforderlich. Diese dient der Zuordnung der Anfrage und der anschließenden Beantwortung derselben. Die Angabe weiterer Daten ist optional.
-Rechtsgrundlage:
+##### Rechtsgrundlage
 Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt auf der Grundlage eines berechtigten Interesses (Art 6 Abs. 1 lit. f DSGVO).
 Durch Bereitstellung des Kontaktformulars möchten wir Ihnen eine unkomplizierte Kontaktaufnahme ermöglichen. Ihre gemachten Angaben werden zum Zwecke der Bearbeitung der Anfrage sowie für mögliche Anschlussfragen gespeichert.
 Sofern Sie mit uns Kontakt aufnehmen, um ein Angebot zu erfragen, erfolgt die Verarbeitung der in das Kontaktformular eingegebenen Daten zur Durchführung vorvertraglicher Maßnahmen (Art 6 Abs. 1 lit. b DSGVO).
-Empfänger:
+##### Empfänger
 Empfänger der Daten sind ggf. Auftragsverarbeiter.
-Speicherdauer:
+##### Speicherdauer
 Daten werden spätestens 6 Monate nach Bearbeitung der Anfrage gelöscht.
 Sofern es zu einem Vertragsverhältnis kommt, unterliegen wir den gesetzlichen Aufbewahrungsfristen nach HGB und löschen Ihre Daten nach Ablauf dieser Fristen.
 Bereitstellung vorgeschrieben oder erforderlich:
