@@ -14,6 +14,7 @@ Aus dem dynamischen Gruppenprozess entstanden die ersten Mehrfamilienhäuser in 
 [b33::: im Fernsehen](http://de.youtube.com/watch?v=jIQZzDPPjXQ)
 
 # Stadtplan
+[![Stadtplan](./pictures/b33.png)](https://osm.org/go/0MLkKqlKF-?layers=T&m=)
 
 # Gästezimmer
 
